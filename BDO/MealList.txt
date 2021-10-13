@@ -1,0 +1,24 @@
+Balenos Meal	24
+Special Balenos Meal	8
+Butter-Roasted Lobster	21
+Golden Butter-Roasted Lobster	7
+Calpheon Meal	18
+Special Calpheon Meal	6
+Hard-Boiled Shellfish	12
+Big Hard-Boiled Shellfish	4
+Kamasylvia Meal	33
+Special Kamasylvia Meal	11
+Khalk's Fermented Wine	12
+Khalk's Strong Fermented Wine	4
+Knight Combat Rations	18
+Margoria Seafood Meal	21
+Mediah Meal	15
+Special Mediah Meal	5
+Serendia Meal	21
+Special Serendia Meal	7
+Special Arehaza Meal	27
+Special Drieghanese Meal	18
+Valencia Meal	18
+Special Valencia Meal	6
+O'dyllita Meal	15
+Special O'dyllita Meal	5
